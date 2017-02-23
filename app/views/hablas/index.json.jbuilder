@@ -1,0 +1,1 @@
+json.array! @hablas, partial: 'hablas/habla', as: :habla

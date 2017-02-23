@@ -1,0 +1,2 @@
+class Habla < ApplicationRecord
+end

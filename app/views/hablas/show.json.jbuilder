@@ -1,0 +1,1 @@
+json.partial! "hablas/habla", habla: @habla
